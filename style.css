@@ -1,0 +1,60 @@
+
+.maindiv{
+    width: 950px;
+    height: 550px;
+    position: relative;
+    left: 250px;
+    top: 50px;
+    border: 2px solid black;
+    text-align: center;
+    box-shadow: 10px 15px 10px 10px;
+  
+}
+.btn1{
+    width: 500px;
+    height: 40px;
+    background-color:	#1877F2;
+    color: white;
+    border: wheat;
+    text-transform: capitalize;
+    font-size: 18px;
+    border-radius: 10px;
+}
+.btn1:hover{
+  background-color: #2367bf;
+}
+.btn2{
+    width: 500px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
+.icon{
+ position: relative;
+ left: -50px;
+}
+label{
+    font-size: 18px;
+    text-align: left;
+    position: relative;
+    right:220px;
+
+}
+input{
+    width: 500px;
+    height: 35px;
+    border-radius: 10px;
+}
+.a1{
+position: relative;
+left: 180px;
+top: 35px;
+}
+input:invalid{
+    outline-color: green;
+}
+input:valid{
+    outline-color: red;
+}

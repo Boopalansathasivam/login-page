@@ -1,0 +1,62 @@
+.img{
+    width: 620px;
+    height:730px;
+    border: 01px solid black;
+    position: absolute;
+    border-radius:15px 0px 0px 15px ;
+}
+.maindiv{
+    width:820px;
+    height: 730px;
+    border: 01px solid black;
+    position: relative;
+    left: 620px;
+    text-align: center;
+    border-radius: 0px 15px 15px 0px;
+}
+h1{
+    font-size: 50px;
+}
+.a{
+    position: relative;
+    top: -25px;
+    right: -65px;
+}
+.b{
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    position: relative;
+    left: -18px;
+}
+.pw{
+    position: relative;
+    left: -188px;
+}
+.b1{
+    width: 600px;
+    height: 30px;
+    position: relative;
+    right: -20px;
+    border-radius: 10px;
+}
+.un{
+    position: relative;
+    right: 158px;
+}.em{
+    position: relative;
+    left: -258px;
+}
+.pw1{
+    position: relative;
+    right: 222px;
+}
+button{
+    width: 500px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
